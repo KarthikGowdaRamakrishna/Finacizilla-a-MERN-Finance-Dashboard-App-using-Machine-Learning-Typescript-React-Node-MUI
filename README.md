@@ -6,6 +6,6 @@ This how the dashboard looks for the visualization of data to draw valuable Insi
 ![image](https://github.com/KarthikGowdaRamakrishna/MERN-Finance-Dashboard-App-using-Machine-Learning-Typescript-React-Node-MUI/assets/144963620/39c63729-aac8-488c-90be-f80856f55089)
 
 This how the prdeiction part of the application works....
-![Recording 2023-newnew](https://github.com/KarthikGowdaRamakrishna/MERN-Finance-Dashboard-App-using-Machine-Learning-Typescript-React-Node-MUI/assets/144963620/415c4256-c499-4226-a2c8-3d4b53669e03)
+![Recording 2023-newnew (1)](https://github.com/KarthikGowdaRamakrishna/MERN-Finance-Dashboard-App-using-Machine-Learning-Typescript-React-Node-MUI/assets/144963620/163148fa-cc15-4ea6-9afe-a7c4fe25a755)
 
 based off the data feed to the server that is **Data.js** file

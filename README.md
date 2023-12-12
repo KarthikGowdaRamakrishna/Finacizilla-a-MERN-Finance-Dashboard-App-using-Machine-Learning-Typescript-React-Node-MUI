@@ -5,7 +5,8 @@ MERN Finance Dashboard App that has Machine Learning Predictions. The frontend c
 This how the dashboard looks for the visualization of data to draw valuable Insights and track the expenses and revenue   
 ![image](https://github.com/KarthikGowdaRamakrishna/MERN-Finance-Dashboard-App-using-Machine-Learning-Typescript-React-Node-MUI/assets/144963620/39c63729-aac8-488c-90be-f80856f55089)
 
-This how the prdeiction part of the application works....
+This is how the prdeiction part of the application works....
 ![Recording 2023-newnew (1)](https://github.com/KarthikGowdaRamakrishna/MERN-Finance-Dashboard-App-using-Machine-Learning-Typescript-React-Node-MUI/assets/144963620/163148fa-cc15-4ea6-9afe-a7c4fe25a755)
 
-based off the data feed to the server that is **Data.js** file
+for revenue of the present year and predicted revenue for the next year to plan for the future 
+based off the data feed to the server that is **Data.js** file 

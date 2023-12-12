@@ -215,7 +215,7 @@ const row3 = () => {
       </Box>
     </Box>
 
-    <Typography margin="0 1rem" variant='h6'>Shri Guru Charan Sarooja-raj Nija manu Mukura Sudhaari Baranau Rahubhara Bimala Yasha Jo Dayaka Phala ChariBudhee-Heen Thanu Jannikay Sumirow Pavana Kumara Bala-Budhee Vidya Dehoo Mohee Harahu Kalesha Vikaara Jai Hanuman gyan gun sagar Jai Kapis tihun lok ujagar Ram doot atulit bal dhama... </Typography>
+    <Typography margin="0 1rem" variant='h6'>Scalability to integrate factor: to integrate a channel to sent token to openAI with the summary our data to return valuable insights</Typography>
   
     </DashboardBox>
 </>
